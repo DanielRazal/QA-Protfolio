@@ -1,7 +1,7 @@
 # QA-Portfolio
 
 Developed using **React**.\
-Crafted with React, my Portfolio for QA demonstrates my expertise in quality assurance. Explore my portfolio here: [QA-Portfolio](qa-protfolio.vercel.app/)
+Crafted with React, my Portfolio for QA demonstrates my expertise in quality assurance. Explore my portfolio here: [QA-Portfolio](https://qa-protfolio.vercel.app/)
 
 ## Running the Project
 
