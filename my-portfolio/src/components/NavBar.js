@@ -40,7 +40,7 @@ export const NavBar = () => {
                             <Nav.Link href="#home" className={activeLink === 'home' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('home')}>Home</Nav.Link>
                             <Nav.Link href="#skills" className={activeLink === 'skills' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('skills')}>Skills</Nav.Link>
                             <Nav.Link href="#project" className={activeLink === 'projects' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('projects')}>Projects</Nav.Link>
-                            <Nav.Link href="https://pdfupload.io/docs/2e6ffa8d" className='navbar-link' target="_blank" rel="noopener noreferrer">Resume</Nav.Link>
+                            <Nav.Link href="https://docs.google.com/document/d/1pY1y5dE2ER_fej40CmrqgufgmFDDxK70sxoDWlreh5Q/edit" className='navbar-link' target="_blank" rel="noopener noreferrer">Resume</Nav.Link>
                         </Nav>
                         <span className="navbar-text">
                             <a href="#footer">
